@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sesion5</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="FlashPoderes">super speed, intangibility, superhuman agility</string>
+    <string name="SupermanPoderes">super strength, flight, invulnerability, super speed, heat vision, freeze breath, x-ray vision, superhuman hearing, healing factor</string>
+    <string name="BatmanPoderes">exceptional martial artist, combat strategy, inexhaustible wealth, brilliant deductive skill, advanced technology</string>
+    <string name="Flash">Flash</string>
+    <string name="Superman">Superman</string>
+    <string name="Batman">Batman</string>
+    <string name="title_activity_bottom">BottomActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

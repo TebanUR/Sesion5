@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/mSuperman"
+    android:title="@string/Superman"/>
+
+    <item android:id="@+id/mBatman"
+        android:title="@string/Batman"/>
+
+    <item android:id="@+id/mFlash"
+        android:title="@string/Flash"/>
+
+</menu>
